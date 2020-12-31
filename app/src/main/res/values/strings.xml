@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Student Registration</string>
+    <string-array name="schools">
+        <item>AddisAbaba University</item>
+        <item>Hawassa University</item>
+        <item>Jimma University</item>
+        <item>Bahirdar University</item>
+        <item>Adama University</item>
+        <item>Mekelle University</item>
+        <item>Gonder University</item>
+        <item>Debreberhan University</item>
+        <item>Arbaminch University</item>
+        <item>Axum University</item>
+    </string-array>
+
+    <string-array name="Department">
+        <item>Chemical Engineering</item>
+        <item>Software Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Biomedical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Information Technology</item>
+    </string-array>
+</resources>
